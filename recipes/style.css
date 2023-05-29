@@ -1,0 +1,15 @@
+.name,
+.ingred,
+.steps {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+    background-color: aqua;
+}
+
+.ancestor .son {
+    font-size: medium;
+    font-weight: bold;
+
+}
+

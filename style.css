@@ -1,0 +1,17 @@
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    font-size: 22px;
+    color: black;
+    background-color: aqua;
+    text-align: center;
+}
+
+.father .child {
+
+    font-weight: bold;
+    color: aqua;
+    font-size: 19px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
